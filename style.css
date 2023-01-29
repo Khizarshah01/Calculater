@@ -1,0 +1,43 @@
+.yo{
+    background-color: yellow;
+}
+.text{
+    text-align: center;
+}
+
+.container{
+    background-color: aqua;
+}
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.item-center{
+    align-items: center;
+}
+
+.row{
+    margin: 8px 0px;
+}
+
+.button{
+    margin: 0px 3px;
+    padding: 20px;
+    border-radius: 8px;
+    border: solid black;
+    cursor: pointer;
+}
+
+.row input{
+    font-size: 19px;
+    padding-top: 13px;;
+    border-radius: 5px;
+}
